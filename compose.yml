@@ -2,7 +2,7 @@
 version: "3"
 services:
  devopsdb:
-   image: kopanathisaikrishna/mysecondrepo:appimage:dbimage
+   image: kopanathisaikrishna/mysecondrepo:dbimage
    ports:
      - "3306:3306"
 
